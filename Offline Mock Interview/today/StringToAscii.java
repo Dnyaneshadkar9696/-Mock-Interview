@@ -43,7 +43,7 @@ public class StringToAscii {
 			   
 			char chd = (char) result;
 			   
-			System.out.println("Acii  value is  name is " + chd);
+			System.out.println("Acii  value for the name is " + chd);
 		}
 	}
 }
