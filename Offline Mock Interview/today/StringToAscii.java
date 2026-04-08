@@ -19,7 +19,7 @@ public class StringToAscii {
 			
 			String n1 = s.nextLine();
 			
-			n1.toCharArray();
+		
 			// converted to the array the first element
 			
 			// now we have to traverse through the each element of the string
